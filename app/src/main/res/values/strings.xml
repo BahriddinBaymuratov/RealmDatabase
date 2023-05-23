@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RealmDatabase</string>
+    <string name="todo">Todo</string>
+</resources>
